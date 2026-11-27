@@ -1,48 +1,70 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/header.svg" width="100%" alt="Moorkis Development — independent app studio">
+<img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/header.svg" width="100%" alt="Moorkis Development — независимая студия приложений">
 
-**Независимая разработка приложений для повседневной жизни.**
+**Приложения для повседневной жизни**
 
-Independent software for everyday life.
+Помогаем планировать прогулки, следить за покупками и управлять личными финансами.
 
-[Наши приложения](#наши-приложения) · [Поддержка](mailto:helpmoorkis@yandex.ru)
+[Наши приложения](#наши-приложения) · [О студии](#о-студии) · [Поддержка](mailto:helpmoorkis@yandex.ru)
 
 </div>
 
+---
+
 ## Наши приложения
 
-[![СХОДИ. — City guides and route planning](https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/shodi.svg)](https://github.com/epbloger/shodi)
+<a href="https://epbloger.github.io/shodi/"><img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/shodi.svg" width="100%" alt="СХОДИ. — городской путеводитель"></a>
 
-Городской путеводитель: интересные места, собственные маршруты и автономная версия.
+### СХОДИ. · Городской путеводитель
 
-[Открыть сайт](https://epbloger.github.io/shodi/) · [Релизы](https://github.com/epbloger/shodi/releases) · [Репозиторий](https://github.com/epbloger/shodi)
+Находите интересные места в городах России, собирайте собственные прогулки и отмечайте посещённые остановки. Каталог и планировщик доступны без интернета в скачанной версии.
 
-[![ЗАБЕРИ. — Purchases, pickups and returns](https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/zaberi.svg)](https://github.com/epbloger/zaberi)
+`Веб-приложение` · `Бесплатно` · `Без регистрации`
 
-Android-приложение для учёта покупок, сроков получения, возвратов и расходов.
+**[Открыть приложение →](https://epbloger.github.io/shodi/)** · [Скачать HTML](https://github.com/epbloger/shodi/releases/latest/download/shodi.html) · [Репозиторий](https://github.com/epbloger/shodi)
 
-[Скачать в RuStore](https://www.rustore.ru/catalog/app/ru.epbloger.zaberi) · [Сайт](https://epbloger.github.io/zaberi/) · [Репозиторий](https://github.com/epbloger/zaberi)
+---
 
-[![ТРАЧУ. — Personal finance and budgeting](https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/trachu.svg)](https://github.com/epbloger/trachu)
+<a href="https://epbloger.github.io/zaberi/"><img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/zaberi.svg" width="100%" alt="ЗАБЕРИ. — учёт покупок, сроков и возвратов"></a>
 
-Нативный финансовый менеджер для Android: доходы, расходы, счета, бюджеты и цели. В разработке.
+### ЗАБЕРИ. · Учёт покупок
 
-[Репозиторий](https://github.com/epbloger/trachu) · [Статус сборок](https://github.com/epbloger/trachu/actions)
+Все заказы из разных магазинов в одном месте. Не пропускайте сроки хранения и возвратов, получайте напоминания и следите за фактическими расходами с учётом возвратов.
+
+`Android 8.0+` · `Бесплатно` · `Уже в RuStore`
+
+**[Скачать в RuStore →](https://www.rustore.ru/catalog/app/ru.epbloger.zaberi)** · [Официальный сайт](https://epbloger.github.io/zaberi/) · [Репозиторий](https://github.com/epbloger/zaberi)
+
+---
+
+<a href="https://epbloger.github.io/trachu/"><img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/trachu.svg" width="100%" alt="ТРАЧУ. — учёт личных финансов"></a>
+
+### ТРАЧУ. · Личные финансы
+
+Записывайте доходы и расходы, управляйте счетами, планируйте бюджет и копите на важное. Наглядная аналитика, учёт долгов и резервные копии помогают держать финансы под контролем.
+
+`Android 8.0+` · `Бесплатно` · `Готовится к публикации в RuStore`
+
+**[Познакомиться с приложением →](https://epbloger.github.io/trachu/)** · [Репозиторий](https://github.com/epbloger/trachu)
+
+---
+
+<sub>Карточки содержат стилизованные иллюстрации возможностей приложений; суммы условные.</sub>
 
 ## О студии
 
-Moorkis Development создаёт приложения для прогулок, покупок и личных финансов. Мы уделяем внимание удобному интерфейсу, доступности основных функций без регистрации и локальному хранению пользовательских записей.
+**Moorkis Development** — независимая студия разработки. Мы уделяем внимание понятному интерфейсу, локальному хранению пользовательских записей и доступности основных функций без обязательной регистрации.
 
 ## Связаться с нами
 
-[Поддержка](mailto:helpmoorkis@yandex.ru) · [Разработчик](https://github.com/epbloger)
+[Написать в поддержку](mailto:helpmoorkis@yandex.ru) · [Профиль разработчика](https://github.com/epbloger)
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/logo.svg" width="46" alt="Moorkis mark">
+<img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/logo.svg" width="52" alt="Логотип Moorkis Development">
 
 **Moorkis Development** · © 2026
 
