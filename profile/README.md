@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/moorkis-development"><img src="https://avatars.githubusercontent.com/u/361319947?v=4&amp;s=512" width="19%" alt="Аватар Moorkis Development" align="middle"></a> <img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/header.svg" width="77%" alt="Moorkis Development — независимая студия приложений" align="middle">
+<img src="https://raw.githubusercontent.com/moorkis-development/.github/main/profile/assets/moorkis-studio-banner-v3.svg" width="100%" alt="Moorkis Development — независимая студия приложений">
 
 **Удобные приложения для повседневной жизни**
 
