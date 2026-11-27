@@ -6,7 +6,7 @@
 
 Планируйте прогулки, не забывайте о покупках и управляйте своими деньгами — бесплатно и без обязательной регистрации.
 
-[Наши приложения](#наши-приложения) · [О студии](#о-студии) · [Поддержка](mailto:helpmoorkis@yandex.ru)
+[Наши приложения](#наши-приложения) · [О студии](#о-студии) · [Команда](#команда) · [Поддержка](mailto:helpmoorkis@yandex.ru)
 
 </div>
 
@@ -55,6 +55,43 @@ Android 8.0+ · Бесплатно · Готовится к публикации
 ## О студии
 
 **Moorkis Development** — независимая студия разработки. Мы уделяем внимание понятному интерфейсу, локальному хранению пользовательских записей и доступности основных функций без обязательной регистрации.
+
+## Команда
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<br>
+<a href="https://github.com/epbloger"><img src="https://github.com/epbloger.png?size=256" width="112" height="112" alt="Аватар epbloger"></a>
+<br><br>
+<h3><a href="https://github.com/epbloger">@epbloger</a></h3>
+<b>Основатель и руководитель студии</b>
+<br>
+<sub>Founder &amp; Product Lead</sub>
+<br><br>
+От идеи до готового продукта.<br>Развитие студии, дизайн и разработка.
+<br><br>
+<a href="https://github.com/epbloger">GitHub ↗</a>
+<br><br>
+</td>
+<td align="center" valign="top" width="50%">
+<br>
+<a href="https://github.com/senoval67"><img src="https://github.com/senoval67.png?size=256" width="112" height="112" alt="Аватар senoval67"></a>
+<br><br>
+<h3><a href="https://github.com/senoval67">@senoval67</a></h3>
+<b>Старший менеджер по секретному DeepSeek API</b>
+<br>
+<sub>Senior Classified DeepSeek API Manager</sub>
+<br><br>
+Секретные API, секретные технологии.<br>Остальное — под грифом «секретно».
+<br><br>
+<a href="https://github.com/senoval67">GitHub ↗</a>
+<br><br>
+</td>
+</tr>
+</table>
+</div>
 
 ## Связаться с нами
 
